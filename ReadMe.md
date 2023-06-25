@@ -1,5 +1,13 @@
 # Hardhat DeFi 
 
+### This smart contract project simply do 3 things :
+
+1. Deposit collateral => ETH / WETH
+2. Borrow another asset => DAI
+3. Repay the DAI
+
+___
+
 *This repo has been revamped to work with Goerli. Due to AaveV2 not being deployed on Goerli, it may not work as intended. Please use a mainnet-fork or local network instead of a testnet.*
 
 
